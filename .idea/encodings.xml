@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tedu/element/Play2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tedu/text/1.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/tedu/text/5.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/Item/tankheal.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/10.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/3.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/5.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/6.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/7.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/8.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/9.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/MultiPlayer.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/battle_city.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/instruction.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/login_background.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/singlePlayer.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/singlePlayer.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/单人.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/双人.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/道具说明.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/anniu/重新开始.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/base/base.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/base/broken_base.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/map/grass_remake.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/map/trees.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/map/wall_steel.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/image/map/water_1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/1.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/10.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/2.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/3.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/4.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/5.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/6.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/7.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/8.map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/map/9.map" charset="UTF-8" />
+  </component>
+</project>
